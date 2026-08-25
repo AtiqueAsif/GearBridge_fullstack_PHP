@@ -1,0 +1,53 @@
+GEARBRIDGE — BUILT-IN ITEM PHOTO REPLACEMENT GUIDE
+==================================================
+
+This folder contains every built-in/demo item image used by GearBridge.
+
+HOW TO REPLACE A DEMO IMAGE WITH A REAL PHOTO
+1. Take or download your real item photo.
+2. Crop/resize it to 4:3 if possible (recommended: 1200 x 900 px).
+3. Save it as JPG using EXACTLY the same filename shown below.
+4. Replace the existing JPG file in this folder.
+5. Do NOT change the database. GearBridge will show the replacement automatically.
+
+Important: Keep the same filename and .jpg extension.
+
+BUILT-IN ITEM → FILE NAME
+-------------------------
+Arduino Uno Starter Kit -> arduino-uno-starter-kit.jpg
+Raspberry Pi 4 Kit -> raspberry-pi-4-kit.jpg
+Digital Multimeter -> digital-multimeter.jpg
+Soldering Station -> soldering-station.jpg
+Portable Projector -> portable-projector.jpg
+Noise-Cancelling Headphones -> noise-cancelling-headphones.jpg
+Power Bank 20000mAh -> power-bank-20000mah.jpg
+Scientific Calculator -> scientific-calculator.jpg
+USB-C Multiport Hub -> usb-c-multiport-hub.jpg
+Canon EOS 200D DSLR -> canon-eos-200d-dslr.jpg
+Sony Alpha Mirrorless Camera -> sony-alpha-mirrorless-camera.jpg
+Tripod with Ball Head -> tripod-with-ball-head.jpg
+GoPro Action Camera -> gopro-action-camera.jpg
+Camera Lighting Kit -> camera-lighting-kit.jpg
+Digital Vernier Caliper -> digital-vernier-caliper.jpg
+Electronics Tool Kit -> electronics-tool-kit.jpg
+Breadboard and Sensor Kit -> breadboard-and-sensor-kit.jpg
+Oscilloscope Probe Set -> oscilloscope-probe-set.jpg
+Mini Hot Glue Gun -> mini-hot-glue-gun.jpg
+Basic Chemistry Glassware Set -> basic-chemistry-glassware-set.jpg
+Data Structures and Algorithms -> data-structures-and-algorithms.jpg
+Engineering Mathematics -> engineering-mathematics.jpg
+Circuit Analysis Fundamentals -> circuit-analysis-fundamentals.jpg
+Web Programming with PHP -> web-programming-with-php.jpg
+Physics for Engineers -> physics-for-engineers.jpg
+Database System Concepts -> database-system-concepts.jpg
+Chemistry Lab Manual -> chemistry-lab-manual.jpg
+Adjustable Laptop Stand -> adjustable-laptop-stand.jpg
+Portable Whiteboard -> portable-whiteboard.jpg
+Wireless Presentation Clicker -> wireless-presentation-clicker.jpg
+Graphing Notebook Pack -> graphing-notebook-pack.jpg
+
+Fallback image -> default-item.jpg
+
+NOTE
+Images uploaded through Add Item are stored separately in uploads/items/ automatically.
+This folder is for the built-in/demo item photos that ship with the project.

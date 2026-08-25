@@ -1,0 +1,15 @@
+GearBridge — Final Project Notes
+================================
+
+Brand: GearBridge
+Project folder: gearbridge
+Local URL: http://localhost/gearbridge/
+Database: gearbridge_db
+Main SQL import: database/gearbridge_db.sql
+
+Built-in/demo item photos:
+assets/images/items/
+
+To use real item photos, replace the JPG files in that folder with photos using the SAME filenames. See HOW_TO_REPLACE_ITEM_PHOTOS.txt.
+
+User-uploaded item images continue to be stored automatically in uploads/items/.

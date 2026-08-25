@@ -1,0 +1,36 @@
+GearBridge - Built-in Demo Accounts
+=====================================
+
+Common password for ALL demo accounts: Demo@123
+
+STUDENTS
+01. Arafat Hossain         student01@demo.com
+02. Nusrat Jahan           student02@demo.com
+03. Samiul Islam           student03@demo.com
+04. Tanjim Ahmed           student04@demo.com
+05. Farzana Rahman         student05@demo.com
+06. Mehedi Hasan           student06@demo.com
+07. Sabila Noor            student07@demo.com
+08. Rafi Khan              student08@demo.com
+09. Tasnim Akter           student09@demo.com
+10. Nayeem Chowdhury       student10@demo.com
+
+STAFF
+01. Dr. Farhan Kabir       staff01@demo.com
+02. Sharmeen Akter         staff02@demo.com
+03. Imran Hossain          staff03@demo.com
+04. Mahmudul Karim         staff04@demo.com
+05. Sabrina Rahman         staff05@demo.com
+06. Asif Mahmud            staff06@demo.com
+07. Nabila Sultana         staff07@demo.com
+08. Tariq Hasan            staff08@demo.com
+09. Rezaul Islam           staff09@demo.com
+10. Morsheda Begum         staff10@demo.com
+
+Quick test:
+Student: student01@demo.com
+Staff:   staff01@demo.com
+Password: Demo@123
+
+Fresh setup: import database/gearbridge_db.sql
+Existing earlier database: import database/demo_data.sql
